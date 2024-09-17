@@ -23,10 +23,9 @@ IEEE Robotics and Automation Letters, 2024.
 - **Real-time fusion** of LiDAR, IMU, and camera data.
 - High-performance **3D radiance field map** rendering.
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="./fig/HKU.gif" alt="GIF 1" style="width: 50%;">
-    <img src="./fig/rb.gif" alt="GIF 2" style="width: 50%;">
-</div>
+![demovideo2](./fig/HKU.gif)
+![demovideo2](./fig/rb.gif)
+
 
 
 ## Dependencies
