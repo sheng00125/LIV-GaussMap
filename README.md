@@ -16,8 +16,6 @@ IEEE Robotics and Automation Letters, 2024.
 
 ![demovideo1](./fig/opt2.gif)
 
-![demovideo1](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc5dGlxOWRud3hndTZ6MDV3Zm00MXhweG51enI2YmdlcXc4Z3JnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/ve2zYEsWZ2nImnn15j/giphy.gif)
-
 
 ## Features
 
