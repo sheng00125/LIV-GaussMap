@@ -26,8 +26,8 @@ If you find this work useful, please consider citing our paper:
 - **Real-time fusion** of LiDAR, IMU, and camera data.
 - High-performance **3D radiance field map** rendering.
 
-![demovideo1](./demo/demovideo1.gif)
-![demovideo2](./demo/demovideo2.gif)
+![demovideo1](./fig/demovideo1.gif)
+![demovideo2](./fig/demovideo2.gif)
 
 ## Dependencies
 
