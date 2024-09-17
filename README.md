@@ -14,12 +14,9 @@ https://github.com/sheng00125/LIV_handhold
 IEEE Robotics and Automation Letters, 2024.
 
 
+![demovideo2](./fig/opt2.gif)
 
 
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="./fig/opt2.gif" alt="GIF 2" style="width: 80%;">
-</div>
 
 ## Features
 
