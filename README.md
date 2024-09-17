@@ -14,7 +14,7 @@ https://github.com/sheng00125/LIV_handhold
 IEEE Robotics and Automation Letters, 2024.
 
 
-![demovideo2](./fig/opt2.gif)
+![demovideo1](./fig/opt2.gif)
 
 
 
@@ -24,7 +24,8 @@ IEEE Robotics and Automation Letters, 2024.
 - High-performance **3D radiance field map** rendering.
 
 ![demovideo2](./fig/HKU.gif)
-![demovideo2](./fig/rb.gif)
+
+![demovideo3](./fig/rb.gif)
 
 
 
