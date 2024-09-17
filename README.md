@@ -1,33 +1,36 @@
 
 # LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering
 
+
+
 ## Overview
 
+### Hardware platform
 
+https://github.com/sheng00125/LIV_handhold
 
 **LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**  
  
 IEEE Robotics and Automation Letters, 2024.
 
-If you find this work useful, please consider citing our paper:
 
-```
-@article{hong2024liv,
-  title={LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering},
-  author={Hong, Sheng and et al.},
-  journal={IEEE Robotics and Automation Letters},
-  year={2024},
-  publisher={IEEE}
-}
-```
+
+
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="./fig/opt2.gif" alt="GIF 2" style="width: 80%;">
+</div>
 
 ## Features
 
 - **Real-time fusion** of LiDAR, IMU, and camera data.
 - High-performance **3D radiance field map** rendering.
 
-![demovideo1](./fig/demovideo1.gif)
-![demovideo2](./fig/demovideo2.gif)
+<div style="display: flex; justify-content: space-between;">
+    <img src="./fig/HKU.gif" alt="GIF 1" style="width: 50%;">
+    <img src="./fig/rb.gif" alt="GIF 2" style="width: 50%;">
+</div>
+
 
 ## Dependencies
 
@@ -44,6 +47,7 @@ To install dependencies, you can use the following command for Ubuntu:
 ```bash
 sudo apt-get install 
 ```
+## Datasets
 
 ## Installation
 
@@ -69,7 +73,17 @@ source devel/setup.bash
 
 ```
 
+If you find this work useful, please consider citing our paper:
 
+```
+@article{hong2024liv,
+  title={LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering},
+  author={Hong, Sheng and et al.},
+  journal={IEEE Robotics and Automation Letters},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
 
 
